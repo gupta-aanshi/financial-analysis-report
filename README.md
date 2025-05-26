@@ -47,7 +47,7 @@ The data has been modeled within Power BI for optimal performance and accuracy i
 ---
 
 ## 📸 Dashboard Preview
-
+![](https://github.com/gupta-aanshi/financial-analysis-report/blob/main/images/Screenshot%202025-05-26%20215649.png)
 ---
 
 ## 🧑‍💻 Author
